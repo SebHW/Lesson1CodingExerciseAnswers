@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\bin\Debug\Problem 8 TwoSums.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\bin\Debug\Problem 8 TwoSums.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\bin\Debug\Problem 8 TwoSums.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\obj\Debug\Problem 8 TwoSums.csproj.AssemblyReference.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\obj\Debug\Problem 8 TwoSums.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\obj\Debug\Problem 8 TwoSums.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 8 TwoSums\obj\Debug\Problem 8 TwoSums.pdb

@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\bin\Debug\Problem 5 String Reversal.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\bin\Debug\Problem 5 String Reversal.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\bin\Debug\Problem 5 String Reversal.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\obj\Debug\Problem 5 String Reversal.csproj.AssemblyReference.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\obj\Debug\Problem 5 String Reversal.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\obj\Debug\Problem 5 String Reversal.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 5 String Reversal\obj\Debug\Problem 5 String Reversal.pdb

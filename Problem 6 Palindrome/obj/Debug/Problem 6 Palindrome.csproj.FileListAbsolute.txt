@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\bin\Debug\Problem 6 Palindrome.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\bin\Debug\Problem 6 Palindrome.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\bin\Debug\Problem 6 Palindrome.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\obj\Debug\Problem 6 Palindrome.csproj.AssemblyReference.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\obj\Debug\Problem 6 Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\obj\Debug\Problem 6 Palindrome.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 6 Palindrome\obj\Debug\Problem 6 Palindrome.pdb

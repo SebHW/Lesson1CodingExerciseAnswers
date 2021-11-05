@@ -1,0 +1,6 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 2 Anagrams\obj\Debug\Problem 2 Anagrams.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 2 Anagrams\bin\Debug\Problem 2 Anagrams.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 2 Anagrams\bin\Debug\Problem 2 Anagrams.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 2 Anagrams\bin\Debug\Problem 2 Anagrams.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 2 Anagrams\obj\Debug\Problem 2 Anagrams.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 2 Anagrams\obj\Debug\Problem 2 Anagrams.pdb

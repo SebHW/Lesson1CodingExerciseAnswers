@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\obj\Debug\Problem 7 Sum of Digits.csproj.AssemblyReference.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\obj\Debug\Problem 7 Sum of Digits.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\bin\Debug\Problem 7 Sum of Digits.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\bin\Debug\Problem 7 Sum of Digits.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\bin\Debug\Problem 7 Sum of Digits.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\obj\Debug\Problem 7 Sum of Digits.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 7 Sum of Digits\obj\Debug\Problem 7 Sum of Digits.pdb

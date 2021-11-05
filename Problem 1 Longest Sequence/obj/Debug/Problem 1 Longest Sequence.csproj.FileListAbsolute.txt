@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\bin\Debug\Problem 1 Longest Sequence.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\bin\Debug\Problem 1 Longest Sequence.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\bin\Debug\Problem 1 Longest Sequence.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\obj\Debug\Problem 1 Longest Sequence.csproj.AssemblyReference.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\obj\Debug\Problem 1 Longest Sequence.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\obj\Debug\Problem 1 Longest Sequence.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 1 Longest Sequence\obj\Debug\Problem 1 Longest Sequence.pdb

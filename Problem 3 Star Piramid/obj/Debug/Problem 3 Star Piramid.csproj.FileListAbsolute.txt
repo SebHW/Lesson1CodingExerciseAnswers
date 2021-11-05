@@ -1,0 +1,6 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 3 Star Piramid\bin\Debug\Problem 3 Star Piramid.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 3 Star Piramid\bin\Debug\Problem 3 Star Piramid.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 3 Star Piramid\bin\Debug\Problem 3 Star Piramid.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 3 Star Piramid\obj\Debug\Problem 3 Star Piramid.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 3 Star Piramid\obj\Debug\Problem 3 Star Piramid.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 3 Star Piramid\obj\Debug\Problem 3 Star Piramid.pdb

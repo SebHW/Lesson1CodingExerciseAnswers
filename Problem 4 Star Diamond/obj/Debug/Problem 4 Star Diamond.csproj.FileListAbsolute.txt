@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\bin\Debug\Problem 4 Star Diamond.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\bin\Debug\Problem 4 Star Diamond.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\bin\Debug\Problem 4 Star Diamond.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\obj\Debug\Problem 4 Star Diamond.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\obj\Debug\Problem 4 Star Diamond.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\obj\Debug\Problem 4 Star Diamond.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 4 Star Diamond\obj\Debug\Problem 4 Star Diamond.csproj.AssemblyReference.cache
