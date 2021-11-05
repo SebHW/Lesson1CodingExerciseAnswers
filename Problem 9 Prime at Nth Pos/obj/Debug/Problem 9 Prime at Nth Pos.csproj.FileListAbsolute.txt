@@ -1,0 +1,7 @@
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\bin\Debug\Problem 9 Prime at Nth Pos.exe.config
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\bin\Debug\Problem 9 Prime at Nth Pos.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\bin\Debug\Problem 9 Prime at Nth Pos.pdb
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\obj\Debug\Problem 9 Prime at Nth Pos.csproj.AssemblyReference.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\obj\Debug\Problem 9 Prime at Nth Pos.csproj.CoreCompileInputs.cache
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\obj\Debug\Problem 9 Prime at Nth Pos.exe
+C:\Users\sebhw\Google Drive\Capita Training\Shafiq\C# apps\Lesson 1\CodingExercises\Problem 9 Prime at Nth Pos\obj\Debug\Problem 9 Prime at Nth Pos.pdb
