@@ -21,18 +21,18 @@ namespace NumberGuessingGame
                 count--;
                 if (guess > number)
                 {
-                    Console.WriteLine("Your guess was too large");
+                    Console.WriteLine("Your guess was too large.");
                     if (count > 0)
                     {
-                        Console.WriteLine("Have another guess");
+                        Console.WriteLine("Have another guess.");
                     }
                 }
                 if (guess < number)
                 {
-                    Console.WriteLine("Your guess was too small");
+                    Console.WriteLine("Your guess was too small.");
                     if (count > 0)
                     {
-                        Console.WriteLine("Have another guess");
+                        Console.WriteLine("Have another guess.");
                     }
                 }
                 if (count == 0)
